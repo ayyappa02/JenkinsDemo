@@ -1,0 +1,8 @@
+def y = ["my", "first", "Groovy" , "script"]
+println y
+y.add("Learning")
+println(y.contains("first"))
+println(y.get(2))
+println(y.pop())
+println y
+
